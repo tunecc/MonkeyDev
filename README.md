@@ -1,3 +1,11 @@
+#修复了Xcode16的安装
+原修复脚本来自：https://github.com/shadow-boy/MonkeyDev/tree/master/bin
+
+```
+sudo /bin/sh -c "$(curl -fsSL https://raw.githubusercontent.com/tunecc/MonkeyDev/refs/heads/master/bin/md-install_xcode16fix)"
+```
+
+
 # MonkeyDev支持无根越狱打包
 
 
